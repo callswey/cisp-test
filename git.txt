@@ -1,0 +1,2 @@
+1. Create a new repo on GitHub
+2.Clone repo on local machine 
