@@ -1,2 +1,4 @@
 1. Create a new repo on GitHub
 2.Clone repo on local machine 
+3.Checkout a branch to make changes
+4.Push branch up to GitHub
